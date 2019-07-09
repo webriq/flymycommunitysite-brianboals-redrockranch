@@ -1,26 +1,26 @@
 {
   "sitedata": [
     {
-      "sitename": "Fly My Community",
+      "sitename": "The Brian Boals Team",
       "icon": "/img/favicon.png",
-      "logo": "/img/logo.png",
-      "metadesc": "Trusted By Fine Real Estate Professionals",
+      "logo": "https://res.cloudinary.com/fmcapp/image/upload/v1560226926/i3ipuj2j4kifb1xwdc87.png",
+      "metadesc": "Your Trusted Real Estate Professionals",
       "metauthor": "Fly My Community",
       "metakeyword": "cms"
     }
   ],
   "content": [
     {
-      "email": "realagent@flymycommunity.com",
-      "linkcont": "032000333555",
-      "videoid": "264108042",
+      "email": "brianboals@gmail.com",
+      "linkcont": "719-459-9955",
+      "videoid": "256648912",
       "sliderbg": "/img/sliderbg.jpg"
     }
   ],
   "about": [
     {
-      "abouttext1": "Crystal Park - FMC ",
-      "abouttext2": "Crystal Park is a private gated mountain community within the Pikes Peak region. Located above Colorado Springs and adjacent to Manitou Springs.....",
+      "abouttext1": "Red Rock Ranch",
+      "abouttext2": "Located west of downtown Monument this neighborhood features large spacious lots, and mountain and city views!",
       "aboutbg": "/img/content_bg.png"
     }
   ],
